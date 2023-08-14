@@ -1,6 +1,4 @@
-# 📚 3-dars (list,audio,video,iframe)
-
-<iframe width="100%" height="500px" src="https://www.youtube.com/embed/xcGtfYUfDLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+# 📚 3-dars (list, audio, video, iframe)
 
 <h2>Reference</h2>
 
