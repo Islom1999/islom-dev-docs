@@ -10,7 +10,8 @@ Assalomu aleykum men Islom Karimov, Bugundan boshlab youtube kanalimda veb dastu
 
 Darslar hamma uchun tushunarli bo’lishi uchun veb dasturlashning asosiy tushunchalari bilan boshlaymiz.
 
-## Frontend va Backend
+## Veb dasturlash
+Veb dasturlash veb-saytlar, veb-loyihalar, veb-dasturlarni yaratishni o'z ichiga oladi va ikki qismga bo'linadi ular frontend dasturlash va backend dasturlash.
 
 <img src='/images/html1.jpg'>
 
